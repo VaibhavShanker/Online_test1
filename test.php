@@ -96,6 +96,13 @@
                 }
             ?>
 
+                <form action="login.php" method="POST">
+
+                    <p>
+                    <input type="submit" name="register" value="Submit" >
+                    </p>
+
+                </form>
 
          </div>
 
