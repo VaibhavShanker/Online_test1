@@ -1,0 +1,154 @@
+body
+{
+    margin:0px;
+}
+
+
+#topright
+{
+    float:right;
+    width:15%;
+    font-family: sans-serif;
+    /* margin-right:10px; */
+    margin-top:0px;
+}
+
+
+#signup-form 
+{
+    text-align: center;
+    height: 850px;
+    width: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: blanchedalmond;
+    /*background-image: "./images/download.png" ;*/
+}
+
+#login-form
+{
+    text-align: center;
+    height: 850px;
+    width: auto;
+    margin-top: 35px;
+    margin-bottom: 45px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: rgba(225, 220, 65, 0.864);
+}
+
+#login
+{
+    margin-left: 1265px;
+    margin-top: 8px;    
+}
+
+#logout
+{
+    margin-left: 1265px;
+    margin-top: 8px;
+}
+
+
+
+#panel
+{
+    height: 850px;
+    width: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+    background-color: skyblue;
+}
+
+
+input[type=text], select 
+{
+    width: 25%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=password], select {
+    width: 25%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: auto;    
+    background-color:  rgb(76, 0, 255);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+
+  
+input[type=email], select 
+{
+    width: 25%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#que
+{
+    
+    height: auto;
+    width: auto;
+    margin-bottom: 40px;
+    margin-left: 82px;
+    margin-right: 82px;
+    background-color: rgba(135, 235, 213, 0.809);
+}
+
+#head
+{   
+    height: 35px;
+    width: auto;
+    background-color: #77ed23;
+    margin-top: 8px;
+    margin-left: 80px;
+    margin-right: 80px;
+    /* padding: 2px; */
+    font-family: sans-serif;
+    font-size: 20px;
+    font-display: 
+}
+
+#d
+{
+    height: auto;
+    width: auto;
+    margin-top: 5px;
+    margin-left: 42px;
+    margin-right: 42px;
+    padding: 90px;
+    text-align: center;
+    background-color: skyblue;
+}
